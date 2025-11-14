@@ -11,7 +11,3 @@ A simple React-based shopping list app that supports **voice commands**, **manua
 - Optional product details (battery, memory, processor)  
 - Multilingual speech recognition  
 
-## Installation
-```bash
-npm install
-npm run dev
